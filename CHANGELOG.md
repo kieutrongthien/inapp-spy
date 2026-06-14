@@ -1,5 +1,11 @@
 # inapp-spy
 
+## 5.0.10
+
+### Patch Changes
+
+- c403044: Add Reddit in-app browser detection (Android only)
+
 ## 5.0.9
 
 ### Patch Changes

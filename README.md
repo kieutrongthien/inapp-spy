@@ -48,6 +48,7 @@ All except `telegram` use UA detection strategies - server or client friendly. `
 - `instagram`
 - `line`
 - `linkedin`
+- `reddit`
 - `snapchat`
 - `telegram`
 - `threads`
