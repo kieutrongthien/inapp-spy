@@ -53,6 +53,10 @@ export const appNameRegExps = {
     regex: /\bReddit\//i,
     name: "Reddit",
   },
+  zalo: {
+    regex: /\bZalo\s+(iOS|android)\//i,
+    name: "Zalo",
+  },
 } as const;
 
 export const appKeysDetectByUA = Object.keys(

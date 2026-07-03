@@ -109,6 +109,14 @@ export const MOBILE: DeviceObj = {
           ...appleTouchWindow,
         },
       ],
+      ZALO: [
+        {
+          useragents: [
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Zalo iOS/674 ZaloTheme/light ZaloLanguage/vn",
+          ],
+          ...appleTouchWindow,
+        },
+      ],
     },
     not_inapp: {
       SFSVC: [
@@ -345,6 +353,14 @@ export const MOBILE: DeviceObj = {
         {
           useragents: [
             "Mozilla/5.0 (Linux; Android 14; Pixel 8 Build/AP2A.240905.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.58 Mobile Safari/537.36 Reddit/Version 2024.41.0/Build 2102450/Android 14",
+          ],
+        },
+      ],
+      ZALO: [
+        {
+          useragents: [
+            "Mozilla/5.0 (Linux; Android 14; SM-A528B Build/UP1A.231005.007;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/148.0.7778.120 Mobile Safari/537.36 Zalo android/260402903 ZaloTheme/dark ZaloLanguage/vi",
+            "Mozilla/5.0 (Linux; Android 13; SM-S918B Build/TP1A.220624.014;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.143 Mobile Safari/537.36 Zalo android/12100726 ZaloTheme/light ZaloLanguage/98",
           ],
         },
       ],
